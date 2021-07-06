@@ -1,0 +1,2 @@
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.csproj.AssemblyReference.cache
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PhoneRepairShop_Code.dll
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PhoneRepairShop_Code.pdb
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.CS.Contracts.dll
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.Data.BQL.Fluent.dll
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.CS.Contracts.pdb
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.Data.BQL.Fluent.pdb
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.Data.BQL.Fluent.xml
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\bin\Debug\PX.Data.BQL.Fluent.dll.config
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.csproj.CoreCompileInputs.cache
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.csproj.CopyComplete
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.dll
+E:\Magang\Magang Sunartha\PhoneRepairShop\App_Data\Projects\PhoneRepairShop_Code\PhoneRepairShop_Code\obj\Debug\PhoneRepairShop_Code.pdb
